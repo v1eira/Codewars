@@ -6,13 +6,12 @@
 
 def solution(number):
 	sum = 0
-	i = 1
-	while i < number:
+	
+	for i in range(number):
 		if i%3 == 0 and i%5 == 0:
 			sum += i
 		elif i%3 == 0:
 			sum += i
 		elif i%5 == 0:
 			sum += i
-		i += 1
 	return sum
