@@ -14,4 +14,4 @@
 <br>&nbsp;<a href="https://www.codewars.com/kata/are-they-the-same/python">Are they the "same"?</a>&nbsp;
 
 <br><b> C </b>
-<br>&nbsp;<a href="https://www.codewars.com/kata/sorted-yes-no-how/c">Sorted? yes? no? how?</a>&nbsp;</br>
+<br>&nbsp;<a href="https://www.codewars.com/kata/sorted-yes-no-how/c">Sorted? yes? no? how?</a>&nbsp;
