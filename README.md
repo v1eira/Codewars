@@ -4,6 +4,7 @@
 
 <br><b> C </b></br>
 <br>&nbsp;<a href="https://www.codewars.com/kata/sorted-yes-no-how/c">Sorted? yes? no? how?</a>&nbsp; -> &nbsp;<a href="https://github.com/ewersonv/Codewars/blob/master/C/sorted_yes_no_how.c"><b>Solution</b></a>&nbsp;
+<br>&nbsp;<a href="https://www.codewars.com/kata/dont-give-me-five/c">Don't give me five!</a>&nbsp; -> &nbsp;<a href="https://github.com/ewersonv/Codewars/blob/master/C/dont_give_me_five.c"><b>Solution</b></a>&nbsp;
 
 <br><b> Python </b></br>
 <br>&nbsp;<a href="https://www.codewars.com/kata/who-likes-it/python">Who likes it?</a>&nbsp; -> &nbsp;<a href="https://github.com/ewersonv/Codewars/blob/master/Python/who_likes_it.py"><b>Solution</b></a>&nbsp;
