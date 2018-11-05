@@ -27,7 +27,6 @@
 #~ If a or b are empty the result is evident by itself.
 
 def comp(array1, array2):
-	size = len(array1)
 	pos = []
 	
 	if array1 == [] and array2 == []:
