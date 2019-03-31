@@ -16,24 +16,21 @@
 
 def pick_peaks(arr):
     
-    pos, peaks = [], []    
-    max, c, i = 0, 0, 1
+    pos, peaks, aux  = [], [], []
+    max = 0
 
-    for i in range(1, len(arr), 1):
-        if arr[i] > arr[max]:
+    for i in range(len(arr)):
+        if arr[i] > arr[i-1]:
             max = i
-            c = 1
-        elif arr[i] < arr[max]:
-            if c == 1:
+            aux.append("u")
+        elif arr[i] < arr[i-1]:
+            aux.append("d")
+        if len(aux) == 3:
+            if (aux[0] == "u" and aux[1] == "u" and aux[2] == "d") or (aux[0] == "d" and aux[1] == "u" and aux[2] == "d"):
                 pos.append(max)
                 peaks.append(arr[max])
                 max = i+1
-                c = 0
-            elif len(pos) > 0:
-                pos.append(max)
-                peaks.append(arr[max])
-                mas = i+1
-                            
+            del aux[0]
     
     output = {"pos": pos, "peaks": peaks}
     
