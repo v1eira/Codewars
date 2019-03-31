@@ -29,3 +29,6 @@
 &nbsp;<a href="https://www.codewars.com/kata/are-they-the-same/python">Are they the "same"?</a>&nbsp; -> &nbsp;<a href="https://github.com/ewersonv/Codewars/blob/master/Python/are_they_the_same.py"><b>Solution</b></a>&nbsp;
 
 &nbsp;<a href="https://www.codewars.com/kata/pick-peaks/python">Pick peaks</a>&nbsp; -> &nbsp;<a href="https://github.com/ewersonv/Codewars/blob/master/Python/pick_peaks.py"><b>Solution</b></a>&nbsp;
+
+<br><b> PHP </b></br><br>
+&nbsp;<a href="https://www.codewars.com/kata/ones-and-zeros/php">Ones and Zeros</a>&nbsp; -> &nbsp;<a href="https://github.com/ewersonv/Codewars/blob/master/PHP/ones_and_zeros.php"><b>Solution</b></a>&nbsp;
