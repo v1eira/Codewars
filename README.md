@@ -27,3 +27,5 @@
 &nbsp;<a href="https://www.codewars.com/kata/tribonacci-sequence/python">Tribonacci Sequence</a>&nbsp; -> &nbsp;<a href="https://github.com/ewersonv/Codewars/blob/master/Python/tribonacci_sequence.py"><b>Solution</b></a>&nbsp;
 
 &nbsp;<a href="https://www.codewars.com/kata/are-they-the-same/python">Are they the "same"?</a>&nbsp; -> &nbsp;<a href="https://github.com/ewersonv/Codewars/blob/master/Python/are_they_the_same.py"><b>Solution</b></a>&nbsp;
+
+&nbsp;<a href="https://www.codewars.com/kata/pick-peaks/python">Pick peaks</a>&nbsp; -> &nbsp;<a href="https://github.com/ewersonv/Codewars/blob/master/Python/pick_peaks.py"><b>Solution</b></a>&nbsp;
