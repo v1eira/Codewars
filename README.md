@@ -2,19 +2,19 @@
 <br>All the solutions I made for Kata Codewars problems.</br>
 <br>The files names are the names of the problems on www.codewars.com</br>
 
-<br><b> C </b></br><br>
-&nbsp;<a href="https://www.codewars.com/kata/sorted-yes-no-how/c">Sorted? yes? no? how?</a>&nbsp; -> &nbsp;<a href="https://github.com/ewersonv/Codewars/blob/master/C/sorted_yes_no_how.c"><b>Solution</b></a>&nbsp;
+## C
+[Sorted? yes? no? how?](https://www.codewars.com/kata/sorted-yes-no-how/c) -> <b>[Solution](C/sorted_yes_no_how.c)</b>
 
-&nbsp;<a href="https://www.codewars.com/kata/dont-give-me-five/c">Don't give me five!</a>&nbsp; -> &nbsp;<a href="https://github.com/ewersonv/Codewars/blob/master/C/dont_give_me_five.c"><b>Solution</b></a>&nbsp;
+[Don't give me five!](https://www.codewars.com/kata/dont-give-me-five/c) -> <b>[Solution](C/dont_give_me_five.c)</b>
 
-<br><b> Python </b></br><br>
-&nbsp;<a href="https://www.codewars.com/kata/who-likes-it/python">Who likes it?</a>&nbsp; -> &nbsp;<a href="https://github.com/ewersonv/Codewars/blob/master/Python/who_likes_it.py"><b>Solution</b></a>&nbsp;
+## Python
+[Who likes it?](https://www.codewars.com/kata/who-likes-it/python) -> <b>[Solution](Python/who_likes_it.py)</b>
 
-&nbsp;<a href="https://www.codewars.com/kata/persistent-bugger/python">Persistent Bugger</a>&nbsp; -> &nbsp;<a href="https://github.com/ewersonv/Codewars/blob/master/Python/persistent_bugger.py"><b>Solution</b></a>&nbsp;
+[Persistent Bugger](https://www.codewars.com/kata/persistent-bugger/python) -> <b>[Solution](Python/persistent_bugger.py)</b>
 
-&nbsp;<a href="https://www.codewars.com/kata/sum-of-two-lowest-positive-integers/python">Sum of two lowest positive integers</a>&nbsp; -> &nbsp;<a href="https://github.com/ewersonv/Codewars/blob/master/Python/sum_of_two_lowest_positive_integers.py"><b>Solution</b></a>&nbsp;
+[Sum of two lowest positive integers](https://www.codewars.com/kata/sum-of-two-lowest-positive-integers/python) -> <b>[Solution](Python/sum_of_two_lowest_positive_integers.py)</b>
 
-&nbsp;<a href="https://www.codewars.com/kata/does-my-number-look-big-in-this/python">Does my number look big in this?</a>&nbsp; -> &nbsp;<a href="https://github.com/ewersonv/Codewars/blob/master/Python/does_my_number_look_big_in_this.py"><b>Solution</b></a>&nbsp;
+[Does my number look big in this?](https://www.codewars.com/kata/does-my-number-look-big-in-this/python) -> <b>[Solution](Python/does_my_number_look_big_in_this.py)</b>
 
 &nbsp;<a href="https://www.codewars.com/kata/dubstep/python">Dubstep</a>&nbsp; -> &nbsp;<a href="https://github.com/ewersonv/Codewars/blob/master/Python/dubstep.py"><b>Solution</b></a>&nbsp;
 
@@ -30,5 +30,7 @@
 
 &nbsp;<a href="https://www.codewars.com/kata/pick-peaks/python">Pick peaks</a>&nbsp; -> &nbsp;<a href="https://github.com/ewersonv/Codewars/blob/master/Python/pick_peaks.py"><b>Solution</b></a>&nbsp;
 
-<br><b> PHP </b></br><br>
-&nbsp;<a href="https://www.codewars.com/kata/ones-and-zeros/php">Ones and Zeros</a>&nbsp; -> &nbsp;<a href="https://github.com/ewersonv/Codewars/blob/master/PHP/ones_and_zeros.php"><b>Solution</b></a>&nbsp;
+## PHP
+[Ones and Zeros](https://www.codewars.com/kata/ones-and-zeros/php) -> <b>[Solution](PHP/ones_and_zeros.php)</b>
+
+[Decode the Morse code](https://www.codewars.com/kata/decode-the-morse-code/php) -> <b>[Solution](PHP/decode_the_morse_code.php)</b>
