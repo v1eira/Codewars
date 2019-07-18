@@ -1,6 +1,6 @@
 # Codewars
 <br>All the solutions I made for Kata Codewars problems.</br>
-<br>The files names are the names of the problems on www.codewars.com</br>
+<br>The files names are the names of the problems on [codewars](https://www.codewars.com)</br>
 
 ## C
 [Sorted? yes? no? how?](https://www.codewars.com/kata/sorted-yes-no-how/c) -> <b>[Solution](C/sorted_yes_no_how.c)</b>
@@ -16,19 +16,20 @@
 
 [Does my number look big in this?](https://www.codewars.com/kata/does-my-number-look-big-in-this/python) -> <b>[Solution](Python/does_my_number_look_big_in_this.py)</b>
 
-&nbsp;<a href="https://www.codewars.com/kata/dubstep/python">Dubstep</a>&nbsp; -> &nbsp;<a href="https://github.com/ewersonv/Codewars/blob/master/Python/dubstep.py"><b>Solution</b></a>&nbsp;
+[Dubstep](https://www.codewars.com/kata/dubstep/python) -> <b>[Solution](Python/dubstep.py)</b>
 
-&nbsp;<a href="https://www.codewars.com/kata/stop-gninnips-my-sdrow/python">Stop gninnipS My sdroW!</a>&nbsp; -> &nbsp;<a href="https://github.com/ewersonv/Codewars/blob/master/Python/stop_gninnips_my_sdrow.py"><b>Solution</b></a>&nbsp;
+[Stop gninnipS My sdroW!](https://www.codewars.com/kata/stop-gninnips-my-sdrow/python) -> <b>[Solution](Python/stop_gninnips_my_sdrow.py)</b>
 
-&nbsp;<a href="https://www.codewars.com/kata/write-number-in-expanded-form/python">Write Number in Expanded Form</a>&nbsp; -> &nbsp;<a href="https://github.com/ewersonv/Codewars/blob/master/Python/write_number_in_expanded_form"><b>Solution</b></a>&nbsp;
+[Write Number in Expanded Form](https://www.codewars.com/kata/write-number-in-expanded-form/python) -> <b>[Solution](Python/write_number_in_expanded_form.py)</b>
 
-&nbsp;<a href="https://www.codewars.com/kata/multiples-of-3-or-5/python">Multiples of 3 or 5</a>&nbsp; -> &nbsp;<a href="https://github.com/ewersonv/Codewars/blob/master/Python/multiplies_of_3_or_5.py"><b>Solution</b></a>&nbsp;
+[Multiples of 3 or 5](https://www.codewars.com/kata/multiples-of-3-or-5/python) -> <b>[Solution](Python/multiples_of_3_or_5.py)</b>
 
-&nbsp;<a href="https://www.codewars.com/kata/tribonacci-sequence/python">Tribonacci Sequence</a>&nbsp; -> &nbsp;<a href="https://github.com/ewersonv/Codewars/blob/master/Python/tribonacci_sequence.py"><b>Solution</b></a>&nbsp;
 
-&nbsp;<a href="https://www.codewars.com/kata/are-they-the-same/python">Are they the "same"?</a>&nbsp; -> &nbsp;<a href="https://github.com/ewersonv/Codewars/blob/master/Python/are_they_the_same.py"><b>Solution</b></a>&nbsp;
+[Tribonacci Sequence](https://www.codewars.com/kata/tribonacci-sequence/python) -> <b>[Solution](Python/tribonacci_sequence.py)</b>
 
-&nbsp;<a href="https://www.codewars.com/kata/pick-peaks/python">Pick peaks</a>&nbsp; -> &nbsp;<a href="https://github.com/ewersonv/Codewars/blob/master/Python/pick_peaks.py"><b>Solution</b></a>&nbsp;
+[Are they the "same"?](https://www.codewars.com/kata/are-they-the-same/python) -> <b>[Solution](Python/are_they_the_same.py)</b>
+
+[Pick peaks](https://www.codewars.com/kata/pick-peaks/python) -> <b>[Solution](Python/pick_peaks.py)</b>
 
 ## PHP
 [Ones and Zeros](https://www.codewars.com/kata/ones-and-zeros/php) -> <b>[Solution](PHP/ones_and_zeros.php)</b>
