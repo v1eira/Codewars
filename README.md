@@ -10,7 +10,7 @@
 ## Java
 [Find The Parity Outlier](https://www.codewars.com/kata/find-the-parity-outlier/java) -> <b>[Solution](Java/find_the_parity_outlier.java)</b>
 
-[Equal Sides Of An Array](https://www.codewars.com/kata/equal-sides-of-an-array/java) -> <b>[Solution](equal_sides_of_an_array)</b>
+[Equal Sides Of An Array](https://www.codewars.com/kata/equal-sides-of-an-array/java) -> <b>[Solution](Java/equal_sides_of_an_array.java)</b>
 
 ## Python
 [Who likes it?](https://www.codewars.com/kata/who-likes-it/python) -> <b>[Solution](Python/who_likes_it.py)</b>
