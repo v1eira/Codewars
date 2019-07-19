@@ -7,6 +7,9 @@
 
 [Don't give me five!](https://www.codewars.com/kata/dont-give-me-five/c) -> <b>[Solution](C/dont_give_me_five.c)</b>
 
+## Java
+[Find The Parity Outlier](https://www.codewars.com/kata/find-the-parity-outlier/java) -> <b>[Solution](Java/find_the_parity_outlier.java)</b>
+
 ## Python
 [Who likes it?](https://www.codewars.com/kata/who-likes-it/python) -> <b>[Solution](Python/who_likes_it.py)</b>
 
