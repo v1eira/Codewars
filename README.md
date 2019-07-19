@@ -7,6 +7,8 @@
 
 [Don't give me five!](https://www.codewars.com/kata/dont-give-me-five/c) -> <b>[Solution](C/dont_give_me_five.c)</b>
 
+[String ends with?](https://www.codewars.com/kata/string-ends-with/c) -> <b>[Solution](C/string_ends_with.c)</b>
+
 ## Java
 [Find The Parity Outlier](https://www.codewars.com/kata/find-the-parity-outlier/java) -> <b>[Solution](Java/find_the_parity_outlier.java)</b>
 
