@@ -1,6 +1,9 @@
 # Codewars
-<br>All the solutions I made for Kata Codewars problems.</br>
-<br>The files names are the names of the problems on [codewars](https://www.codewars.com)</br>
+All the solutions I made for Kata Codewars problems.
+
+The files names are the names of the problems on [codewars](https://www.codewars.com)
+
+You can check my profile [here](https://www.codewars.com/users/v1eira).
 
 ## C
 [Sorted? yes? no? how?](https://www.codewars.com/kata/sorted-yes-no-how/c) -> <b>[Solution](C/sorted_yes_no_how.c)</b>
