@@ -9,6 +9,8 @@
 
 [String ends with?](https://www.codewars.com/kata/string-ends-with/c) -> <b>[Solution](C/string_ends_with.c)</b>
 
+[Bouncing Balls](https://www.codewars.com/kata/bouncing-balls/c) -> <b>[Solution](C/bouncing_balls.c)</b>
+
 ## Java
 [Find The Parity Outlier](https://www.codewars.com/kata/find-the-parity-outlier/java) -> <b>[Solution](Java/find_the_parity_outlier.java)</b>
 
