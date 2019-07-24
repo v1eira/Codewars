@@ -1,11 +1,11 @@
-# Codewars
+# Codewars (19)
 All the solutions I made for Kata Codewars problems.
 
 The files names are the names of the problems on [codewars](https://www.codewars.com)
 
 You can check my profile [here](https://www.codewars.com/users/v1eira).
 
-## C
+## C (4)
 [Sorted? yes? no? how?](https://www.codewars.com/kata/sorted-yes-no-how/c) -> <b>[Solution](C/sorted_yes_no_how.c)</b>
 
 [Don't give me five!](https://www.codewars.com/kata/dont-give-me-five/c) -> <b>[Solution](C/dont_give_me_five.c)</b>
@@ -14,12 +14,12 @@ You can check my profile [here](https://www.codewars.com/users/v1eira).
 
 [Bouncing Balls](https://www.codewars.com/kata/bouncing-balls/c) -> <b>[Solution](C/bouncing_balls.c)</b>
 
-## Java
+## Java (2)
 [Find The Parity Outlier](https://www.codewars.com/kata/find-the-parity-outlier/java) -> <b>[Solution](Java/find_the_parity_outlier.java)</b>
 
 [Equal Sides Of An Array](https://www.codewars.com/kata/equal-sides-of-an-array/java) -> <b>[Solution](Java/equal_sides_of_an_array.java)</b>
 
-## Python
+## Python (11)
 [Who likes it?](https://www.codewars.com/kata/who-likes-it/python) -> <b>[Solution](Python/who_likes_it.py)</b>
 
 [Persistent Bugger](https://www.codewars.com/kata/persistent-bugger/python) -> <b>[Solution](Python/persistent_bugger.py)</b>
@@ -43,7 +43,7 @@ You can check my profile [here](https://www.codewars.com/users/v1eira).
 
 [Pick peaks](https://www.codewars.com/kata/pick-peaks/python) -> <b>[Solution](Python/pick_peaks.py)</b>
 
-## PHP
+## PHP (2)
 [Ones and Zeros](https://www.codewars.com/kata/ones-and-zeros/php) -> <b>[Solution](PHP/ones_and_zeros.php)</b>
 
 [Decode the Morse code](https://www.codewars.com/kata/decode-the-morse-code/php) -> <b>[Solution](PHP/decode_the_morse_code.php)</b>
