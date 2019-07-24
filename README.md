@@ -1,4 +1,4 @@
-# Codewars (19)
+# Codewars (20)
 All the solutions I made for Kata Codewars problems.
 
 The files names are the names of the problems on [codewars](https://www.codewars.com)
@@ -43,7 +43,9 @@ You can check my profile [here](https://www.codewars.com/users/v1eira).
 
 [Pick peaks](https://www.codewars.com/kata/pick-peaks/python) -> <b>[Solution](Python/pick_peaks.py)</b>
 
-## PHP (2)
+## PHP (3)
 [Ones and Zeros](https://www.codewars.com/kata/ones-and-zeros/php) -> <b>[Solution](PHP/ones_and_zeros.php)</b>
 
 [Decode the Morse code](https://www.codewars.com/kata/decode-the-morse-code/php) -> <b>[Solution](PHP/decode_the_morse_code.php)</b>
+
+[Sum of numbers from 0 to N](https://www.codewars.com/kata/sum-of-numbers-from-0-to-n/php) -> <b>[Solution](PHP/sum_of_numbers_from_0_to_N.php)</b>
