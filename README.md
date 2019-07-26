@@ -1,11 +1,11 @@
-# Codewars (20)
+# Codewars (21)
 All the solutions I made for Kata Codewars problems.
 
 The files names are the names of the problems on [codewars](https://www.codewars.com)
 
 You can check my profile [here](https://www.codewars.com/users/v1eira).
 
-## C (4)
+## C (5)
 [Sorted? yes? no? how?](https://www.codewars.com/kata/sorted-yes-no-how/c) -> <b>[Solution](C/sorted_yes_no_how.c)</b>
 
 [Don't give me five!](https://www.codewars.com/kata/dont-give-me-five/c) -> <b>[Solution](C/dont_give_me_five.c)</b>
@@ -13,6 +13,8 @@ You can check my profile [here](https://www.codewars.com/users/v1eira).
 [String ends with?](https://www.codewars.com/kata/string-ends-with/c) -> <b>[Solution](C/string_ends_with.c)</b>
 
 [Bouncing Balls](https://www.codewars.com/kata/bouncing-balls/c) -> <b>[Solution](C/bouncing_balls.c)</b>
+
+[Anagram Detection](https://www.codewars.com/kata/anagram-detection/c) -> <b>[Solution](C/anagram_detection.c)</b>
 
 ## Java (2)
 [Find The Parity Outlier](https://www.codewars.com/kata/find-the-parity-outlier/java) -> <b>[Solution](Java/find_the_parity_outlier.java)</b>
