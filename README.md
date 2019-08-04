@@ -1,4 +1,4 @@
-# Codewars (21)
+# Codewars (22)
 All the solutions I made for Kata Codewars problems.
 
 The files names are the names of the problems on [codewars](https://www.codewars.com)
@@ -20,6 +20,13 @@ You can check my profile [here](https://www.codewars.com/users/v1eira).
 [Find The Parity Outlier](https://www.codewars.com/kata/find-the-parity-outlier/java) -> <b>[Solution](Java/find_the_parity_outlier.java)</b>
 
 [Equal Sides Of An Array](https://www.codewars.com/kata/equal-sides-of-an-array/java) -> <b>[Solution](Java/equal_sides_of_an_array.java)</b>
+
+## PHP (3)
+[Ones and Zeros](https://www.codewars.com/kata/ones-and-zeros/php) -> <b>[Solution](PHP/ones_and_zeros.php)</b>
+
+[Decode the Morse code](https://www.codewars.com/kata/decode-the-morse-code/php) -> <b>[Solution](PHP/decode_the_morse_code.php)</b>
+
+[Sum of numbers from 0 to N](https://www.codewars.com/kata/sum-of-numbers-from-0-to-n/php) -> <b>[Solution](PHP/sum_of_numbers_from_0_to_N.php)</b>
 
 ## Python (11)
 [Who likes it?](https://www.codewars.com/kata/who-likes-it/python) -> <b>[Solution](Python/who_likes_it.py)</b>
@@ -45,9 +52,5 @@ You can check my profile [here](https://www.codewars.com/users/v1eira).
 
 [Pick peaks](https://www.codewars.com/kata/pick-peaks/python) -> <b>[Solution](Python/pick_peaks.py)</b>
 
-## PHP (3)
-[Ones and Zeros](https://www.codewars.com/kata/ones-and-zeros/php) -> <b>[Solution](PHP/ones_and_zeros.php)</b>
-
-[Decode the Morse code](https://www.codewars.com/kata/decode-the-morse-code/php) -> <b>[Solution](PHP/decode_the_morse_code.php)</b>
-
-[Sum of numbers from 0 to N](https://www.codewars.com/kata/sum-of-numbers-from-0-to-n/php) -> <b>[Solution](PHP/sum_of_numbers_from_0_to_N.php)</b>
+## R (1)
+[Buying a car](https://www.codewars.com/kata/buying-a-car/r) -> <b>[Solution](R/buying_a_car.r)</b>
