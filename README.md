@@ -1,4 +1,4 @@
-# Codewars (22)
+# Codewars (23)
 All the solutions I made for Kata Codewars problems.
 
 The files names are the names of the problems on [codewars](https://www.codewars.com)
@@ -52,5 +52,7 @@ You can check my profile [here](https://www.codewars.com/users/v1eira).
 
 [Pick peaks](https://www.codewars.com/kata/pick-peaks/python) -> <b>[Solution](Python/pick_peaks.py)</b>
 
-## R (1)
+## R (2)
 [Buying a car](https://www.codewars.com/kata/buying-a-car/r) -> <b>[Solution](R/buying_a_car.r)</b>
+
+[Exes and Ohs](https://www.codewars.com/kata/exes-and-ohs/r) -> <b>[Solution](R/exes_and_ohs.r)</b>
