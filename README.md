@@ -54,7 +54,7 @@ You can check my profile [here](https://www.codewars.com/users/v1eira).
 
 [Permutations](https://www.codewars.com/kata/permutations/python) -> <b>[Solution](Python/permutations.py)</b>
 
-## R (2)
+## R (3)
 [Buying a car](https://www.codewars.com/kata/buying-a-car/r) -> <b>[Solution](R/buying_a_car.r)</b>
 
 [Exes and Ohs](https://www.codewars.com/kata/exes-and-ohs/r) -> <b>[Solution](R/exes_and_ohs.r)</b>
