@@ -1,4 +1,4 @@
-# Codewars (24)
+# Codewars (25)
 All the solutions I made for Kata Codewars problems.
 
 The files names are the names of the problems on [codewars](https://www.codewars.com)
@@ -17,9 +17,9 @@ You can check my profile [here](https://www.codewars.com/users/v1eira).
 [Anagram Detection](https://www.codewars.com/kata/anagram-detection/c) -> <b>[Solution](C/anagram_detection.c)</b>
 
 ## Java (2)
-[Find The Parity Outlier](https://www.codewars.com/kata/find-the-parity-outlier/java) -> <b>[Solution](Java/find_the_parity_outlier.java)</b>
+[Find The Parity Outlier](https://www.codewars.com/kata/find-the-parity-outlier/java) -> <b>[Solution](Java/FindTheParityOutlier.java)</b>
 
-[Equal Sides Of An Array](https://www.codewars.com/kata/equal-sides-of-an-array/java) -> <b>[Solution](Java/equal_sides_of_an_array.java)</b>
+[Equal Sides Of An Array](https://www.codewars.com/kata/equal-sides-of-an-array/java) -> <b>[Solution](Java/EqualSidesOfAnArray.java)</b>
 
 ## PHP (3)
 [Ones and Zeros](https://www.codewars.com/kata/ones-and-zeros/php) -> <b>[Solution](PHP/ones_and_zeros.php)</b>
@@ -58,3 +58,5 @@ You can check my profile [here](https://www.codewars.com/users/v1eira).
 [Buying a car](https://www.codewars.com/kata/buying-a-car/r) -> <b>[Solution](R/buying_a_car.r)</b>
 
 [Exes and Ohs](https://www.codewars.com/kata/exes-and-ohs/r) -> <b>[Solution](R/exes_and_ohs.r)</b>
+
+[Rotate for a Max](https://www.codewars.com/kata/rotate-for-a-max/r) -> <b>[Solution](R/rotate_for_a_max.r)</b>
