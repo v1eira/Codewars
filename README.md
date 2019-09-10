@@ -1,4 +1,4 @@
-# Codewars (23)
+# Codewars (24)
 All the solutions I made for Kata Codewars problems.
 
 The files names are the names of the problems on [codewars](https://www.codewars.com)
@@ -28,7 +28,7 @@ You can check my profile [here](https://www.codewars.com/users/v1eira).
 
 [Sum of numbers from 0 to N](https://www.codewars.com/kata/sum-of-numbers-from-0-to-n/php) -> <b>[Solution](PHP/sum_of_numbers_from_0_to_N.php)</b>
 
-## Python (11)
+## Python (12)
 [Who likes it?](https://www.codewars.com/kata/who-likes-it/python) -> <b>[Solution](Python/who_likes_it.py)</b>
 
 [Persistent Bugger](https://www.codewars.com/kata/persistent-bugger/python) -> <b>[Solution](Python/persistent_bugger.py)</b>
@@ -51,6 +51,8 @@ You can check my profile [here](https://www.codewars.com/users/v1eira).
 [Are they the "same"?](https://www.codewars.com/kata/are-they-the-same/python) -> <b>[Solution](Python/are_they_the_same.py)</b>
 
 [Pick peaks](https://www.codewars.com/kata/pick-peaks/python) -> <b>[Solution](Python/pick_peaks.py)</b>
+
+[Permutations](https://www.codewars.com/kata/permutations/python) -> <b>[Solution](Python/permutations.py)</b>
 
 ## R (2)
 [Buying a car](https://www.codewars.com/kata/buying-a-car/r) -> <b>[Solution](R/buying_a_car.r)</b>
